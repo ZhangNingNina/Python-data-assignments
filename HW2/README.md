@@ -5,5 +5,5 @@ Data Field:
 · Actors
 · Introduction
 · Date
-Data Volume: 107 rows × 4 columns (I collected the movie data from August to December in 2018)
+Data Volume: 123 rows × 4 columns (I collected the movie data from August to December in 2018)
 license: CC 4.0
